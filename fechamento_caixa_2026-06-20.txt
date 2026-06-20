@@ -1,0 +1,18 @@
+==================================================
+          RELATORIO DE  FECHAMENTO DE CAIXA       
+          GERADO EM: 2026/06/20 17:46                   
+==================================================
+TOTAL DE OPERAÇÕES: 7 cupons
+FATURAMENTO BRUTO:  R$ 372.35
+██████████████████████████████████████████████████
+SUBTOTAIS POR PAGAMENTO:
+ > PIX            : R$ 234.42
+ > A PRAZO        : R$ 119.94
+ > DINHEIRO       : R$ 17.99
+--------------------------------------------------
+DINHEIRO EM CAIXA
+ Esperado no Sistema : R$ 17.99
+ Informado p/ Operador: R$ 15.00
+
+ PARECER FINAL:  QUEBRA DE CAIXA: FALTOU R$ 2.99.
+==================================================
