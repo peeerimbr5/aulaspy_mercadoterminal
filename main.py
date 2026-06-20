@@ -13,6 +13,15 @@ from interfaces.login import users
 from interfaces.menu import call_menu
 from submenus.submenu4 import change_prod
 
+
+##PARA A AULA FOI MONTADO JUNTO COM O PROFESSOR QUE TINHA EM BASE UMA LIVRARIA DECIDI MONTAR UM MERCADO. 
+# FAVOR AO INICIAR O PROGRAMA ESTEJA DE TELA CHEIA NO TERMINAL PARA QUE A INTERFACE DE TERMINAL FIQUE COM TAMANHO CORRETO. 
+# LOGIN INICIAL = id 999 user admin senha 0000
+
+##NAO ESQUECA DE INICIAR EM TELA CHEIA
+
+
+
 funcionario_logado = users() 
 
 while True:
